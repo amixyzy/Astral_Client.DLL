@@ -1,1 +1,1 @@
-
+Astral has released a practice server, this has FFA, Duels, and PvP Bots. Astral brings the most a server can to the table, server is being worked on around the clock with support from many known developers, we also have a AntiCheat which has been known to be the best in the community. 
